@@ -430,6 +430,11 @@ footer {
     border-color: #1FDE82;
 }
 
+div .video iframe {
+    text-align: center;
+    width: 100%;
+}
+
 
 /* Breakpoints responsive */
 
